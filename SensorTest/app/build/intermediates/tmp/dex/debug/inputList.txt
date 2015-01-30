@@ -1,0 +1,5 @@
+C:\Users\noname\AndroidStudioProjects\SensorTest\app\build\intermediates\classes\debug
+C:\Users\noname\AndroidStudioProjects\SensorTest\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-4579d1b6f118b49bf7886d4b570c9d0ec45c19f9.jar
+C:\Users\noname\AndroidStudioProjects\SensorTest\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-8e164a97d46803fdd95d17819a769ced2a8f1641.jar
+C:\Users\noname\AndroidStudioProjects\SensorTest\app\build\intermediates\pre-dexed\debug\classes-9e5efbdf2db54aff7c7bb4a4225cd47457fbd73c.jar
+C:\Users\noname\AndroidStudioProjects\SensorTest\app\build\intermediates\pre-dexed\debug\classes-cbcd6c0570665336b159856edde8d115ded2c14b.jar
