@@ -10,7 +10,7 @@ if the divice is __shaked__ (this means, the device detects tilt motion of which
 
 acceleration of the pointer equals sum of component of gravitational acceleration on the reference plane (i.e. _sliding_ acceleration on the plane) and viscous acceleration. 
 
-> acceleration = (some coefficient) * (gravitation, plane direction) * gravitation - (viscosity coefficient) * velocity. 
+> acceleration = (some coefficient) * (1 - (gravitation direction, plane direction)) * gravitation - (viscosity coefficient) * velocity. 
 
 > (where (_u_, _v_) is _dot_ product of vector _u_ and _v_.)
 
